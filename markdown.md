@@ -18,7 +18,7 @@
 <p>The wind won. White water boiled off the starboard bow. A scream from the lookout brought sailors racing to drop anchor. Too late. A fang of rock rising from the sea ripped the <em>Girona's</em> flank; she gutted herself upon it. Her back broke, her side opened, her entrails burst from her. Cannons, cannon balls, small arms, stores, coffers and 1,300 sick men, too exhausted to struggle, sank into the convulsive surf.</p>
 <p><strong>
 <ul>Four centuries later the shipwreck was discovered under 30 feet of icy water, treasures lost on that fateful day included:</strong></p>
-<li>
+
 <li>A ornamental winged salamander</li>
 
 <li>Gold cross of the Knight of Malta</li>
